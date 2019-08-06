@@ -14,5 +14,3 @@ The project will run in
 ```sh
 http://localhost:3000/
 ```
-
-http://localhost:3000/# bootcamp-ReactJS-RocketShoes
