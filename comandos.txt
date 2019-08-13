@@ -12,7 +12,7 @@ Deletar (
   "eslintConfig": {
     "extends": "react-app"
   },
-  
+
 )
 
 
@@ -22,6 +22,10 @@ yarn add @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli -
 yarn add react react-dom
 yarn add babel-loader -D
 yarn add webpack-dev-server -D
+
+[03: Nodemon - reiniciar automaticamente o servidor]
+
+
 
 [04. Importando css]
 yarn add style-loader css-loader -D
